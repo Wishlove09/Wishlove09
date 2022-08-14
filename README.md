@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @Wishlove09
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning Spring FrameWork and Java more
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Wishlove09/Wishlove09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 If you are interested in me, please contact me 1176293852@qq.com
